@@ -10,7 +10,7 @@ Además de JavaScript, también tengo experiencia en lenguajes secundarios como 
 
 Aquí hay algunos proyectos destacados en los que he trabajado:
 
-- [Chat Bluetooth](link al proyecto)
+- [Chat Bluetooth](https://github.com/Duvier-Reinosa/chat-bluetooth)
 - [Proyecto 2](link al proyecto)
 - [Proyecto 3](link al proyecto)
 
