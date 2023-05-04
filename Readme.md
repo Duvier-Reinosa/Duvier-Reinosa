@@ -25,8 +25,6 @@ Aquí hay algunos proyectos destacados en los que he trabajado:
 - Node.js
 - Loopback
 - CSS
-- Sass
-- Less
 - MySQL
 - PostgreSQL
 - MongoDB
@@ -36,6 +34,6 @@ Aquí hay algunos proyectos destacados en los que he trabajado:
 
 ## Contacto
 
-Puedes encontrarme en [LinkedIn](link a tu perfil de LinkedIn) para cualquier colaboración o trabajo interesante que pueda surgir.
+Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/duvier-reinosa-8a5ba918b/) para cualquier colaboración o trabajo interesante que pueda surgir.
 
 ¡Gracias por visitar mi perfil de GitHub!
