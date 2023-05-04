@@ -17,6 +17,7 @@ Aquí hay algunos proyectos destacados en los que he trabajado:
 ## Habilidades
 
 - JavaScript
+- TypeScript
 - React.js
 - React Native
 - Next.js
@@ -25,6 +26,7 @@ Aquí hay algunos proyectos destacados en los que he trabajado:
 - Node.js
 - Loopback
 - CSS
+- -Tailwindcss
 - MySQL
 - PostgreSQL
 - MongoDB
