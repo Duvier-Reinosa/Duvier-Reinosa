@@ -26,7 +26,7 @@ Aquí hay algunos proyectos destacados en los que he trabajado:
 - Node.js
 - Loopback
 - CSS
-- -Tailwindcss
+- Tailwindcss
 - MySQL
 - PostgreSQL
 - MongoDB
