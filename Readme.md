@@ -11,7 +11,7 @@ Además de JavaScript, también tengo experiencia en lenguajes secundarios como 
 Aquí hay algunos proyectos destacados en los que he trabajado:
 
 - [Chat Bluetooth](https://github.com/Duvier-Reinosa/chat-bluetooth)
-- [Proyecto 2](link al proyecto)
+- [Aguacate Store](https://github.com/Duvier-Reinosa/aguacateStore)
 - [Proyecto 3](link al proyecto)
 
 ## Habilidades
